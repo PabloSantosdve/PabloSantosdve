@@ -1,6 +1,6 @@
 # 👋 Olá, sou Pablo
 
-Sou um desenvolvedor dedicado a transformar ideias em soluções eficazes. Iniciei minha trajetória na área de tecnologia pelo projeto PROA, onde aprofundei meus conhecimentos em Java e recebi prêmios de destaque e evolução. Desde então, sigo em constante desenvolvimento.
+Sou um desenvolvedor dedicado a transformar ideias em soluções eficazes. Iniciei minha trajetória na área de tecnologia pelo projeto PROA, onde aprofundei meus conhecimentos em Java e recebi prêmios de **aluno destaque e que mais evoluiu**. Desde então, sigo em constante desenvolvimento.
 
 Atualmente, curso Análise e Desenvolvimento de Sistemas e já participei de projetos práticos, tais como:
 
